@@ -1,2 +1,2 @@
 # SC_Clouds
-Questão 3 e 4
+Feito com intuito de mostrar as questões 3 e 4 dos problemas solicitados
